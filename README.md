@@ -2,6 +2,9 @@
 
 Addon no oficial que agrega el idioma **español** a [Sierra Quest](https://pointandclick.studio/games/sierra-quest), con instaladores para **Windows**, **macOS** y **Linux**.
 
+> [!WARNING]
+> **Traducción en progreso.** Por ahora hay unas 238 de las ~4.500 frases del juego traducidas, así que la mayoría de los textos todavía se ven en inglés. Los instaladores ya funcionan: cuando se publique una versión más completa de la traducción, alcanza con volver a instalarla.
+
 ## Descarga
 
 Descargá el paquete de tu sistema desde la carpeta [`instaladores/`](instaladores):
